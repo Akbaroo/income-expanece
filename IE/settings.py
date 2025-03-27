@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # local
     'accounts.apps.AccountsConfig',
+    'iemanager.apps.IemanagerConfig',
 
     # package
     'rest_framework',
